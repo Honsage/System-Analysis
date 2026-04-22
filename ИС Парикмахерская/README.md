@@ -6,7 +6,7 @@
 
 ## Описание
 
-В данном документе представлены диаграммы и схемы, построенные в рамках проектирования ИС.
+В документе представлены диаграммы и схемы, построенные в рамках проектирования данной ИС.
 
 ## Организационная схема (Organizational Chart)
 
@@ -26,10 +26,55 @@
 
 ### Диаграмма вариантов использования (Use case)
 
+<img src="src/use-case.png" width="600">
+
+### Диаграмма классов анализа (Class Analysis)
+
+<img src="src/class-analysis.png" width="650">
+
+### Диаграмма последовательности (Sequence)
+
+<img src="src/sequence.png" width="700">
+
+### Диаграмма коммуникации (Communication)
+
+<img src="src/communication.png" width="800">
+
+### Диаграмма классов (Class)
+
+![](src/class.png)
+
+### Диаграмма состояний (State Machine)
+
+<img src="src/fsm.png" width="800">
+
+### Диаграмма деятельности (Activity)
+
+<img src="src/activity.png" width="600">
+
+### Диаграмма компонентов (Component)
+
+<img src="src/component.png" width="700">
+
+
+Упрощенная версия:
+
+<img src="src/component-simple.png" width="600">
+
+### Диаграмма развертывания (Deployment)
+
+<img src="src/deployment.png" width="650">
+
 ## Схемы БД
 
 ### Концептуальная
 
+<img src="src/concept-db.png" width="600">
+
 ### Логическая
 
+<img src="src/logic-db.png" width="800">
+
 ### Физическая
+
+<img src="src/physic-db.png" width="800">
