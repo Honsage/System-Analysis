@@ -69,12 +69,12 @@
 
 ### Концептуальная
 
-<img src="src/concept-db.png" width="600">
+<img src="src/concept-db.png" width="800">
 
 ### Логическая
 
-<img src="src/logic-db.png" width="800">
+![](src/logic-db.png)
 
 ### Физическая
 
-<img src="src/physic-db.png" width="800">
+![](src/physic-db.png)
